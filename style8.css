@@ -1,0 +1,35 @@
+body{
+    background-image: url(../imagens/JoJo\'s_Bizarre_Adventure.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#fundo{
+    background-color: black;
+    width: 90%;
+    opacity: 0.8;
+}
+
+h1{text-align: center;}
+
+#img1 { float: left;}
+#img0 { float: right;} 
+#img2 { float: left;} 
+#img3 { float: right;} 
+#img4 { float: left; }
+#img5 {float: right;}
+#img6 {float: right;}
+#img7 {float: left;}
+
+
+li {
+    float: left;
+    list-style: none;
+    padding: 10px;
+    background-color: red;
+    color: black;
+    margin: 5px;
+    text-align: left;
+    margin-top: -25px;
+}

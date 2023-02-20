@@ -1,0 +1,37 @@
+body {
+    font-size: 1.3rem;
+    color: white;
+    background-image: url(../imagens/JoJo\'s_Bizarre_Adventure.jpg);
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+#fundo{
+    background-color: black;
+    opacity: 0.8;
+    width: 90%;
+}
+
+#h1{text-align: center;}
+
+#img1 { float: left;}
+
+
+#div1 {
+    border: 1px solid grey;
+    overflow: auto;
+}
+
+li {
+    float: left;
+    list-style: none;
+    padding: 10px;
+    background-color: red;
+    color: black;
+    margin: 5px;
+    text-align: left;
+    margin-top: -25px;
+}

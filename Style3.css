@@ -1,0 +1,84 @@
+body{
+    background-image: url(imagens/jojo.jpg) ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+    font-size: 1.3rem;
+}
+
+#fundo{
+    background-color: black;
+    width: 95%;
+    opacity: 0.8;
+    
+}
+
+
+#h1{text-align: center;}
+#h2{text-align: center;}
+#h3{text-align: center;}
+#h4{text-align: center; 
+    margin-top: ;}
+#h5{text-align: center;}
+#h6{text-align: center;
+    margin-bottom: -100px;}
+
+
+
+
+#img1 { float: left;}
+#img0 { float: right;} 
+#img2 { float: left;} 
+#img3 { float: right;} 
+#img4 { float: left;}
+#img5 {float: right;}
+
+
+#div1 {
+    border: 1px solid grey;
+    overflow: auto;
+    width: 200px;
+    
+}
+
+#text1 { 
+          margin-top: -50px;}
+#text2 { 
+          }
+#text3 {
+        margin-top: -0px ;} 
+
+            
+
+#audio1{float: right;}
+
+#P1 { text-align: right;}
+
+#imagem {
+    width: 1350px;
+    height 800px;
+}
+
+
+li {
+    float: left;
+    list-style: none;
+    padding: 10px;
+    background-color: red;
+    color: black;
+    margin: 5px;
+    text-align: left;
+    margin-top: -25px;
+}
+
+.texto{
+    text-align: center;
+}
+
+.texto2{
+    margin: 1cm;
+    display: grid;
+}
+
+
+    
